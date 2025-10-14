@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> This repository is being moved into archive status and any future updates to this script will go into https://github.com/ActiveDirectoryKC/ADKCPowerShellTools.
+> This has also been wrapped into the New-ADKCADOrganizationalUnitFromPath file.
+
 # New-PSADOUPath
 Creates an OU structure hierarchically based on the provided Distinguished Name.
 
